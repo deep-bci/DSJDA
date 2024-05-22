@@ -3,4 +3,4 @@ Code of paper DSJDA: dynamic Source Joint Domain Adaptation for EEG Cross-subjec
 
 Prepare dataset: SEED, SEED-IV and DEAP
 
-Change the path in utils.py and run main-seed.py(main-deep.py)
+Change the path in utils.py and run main-seed.py
